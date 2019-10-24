@@ -12,4 +12,5 @@ Glen Grant The Major's Reserve (Scotland)
 The Arran Malt 10 Year Old (Scotland)
 Chivas Regal 12 Year Old (Scotland)
 The Singleton of Dufftown Malt Master's Selection 1106 (Scotland)
+Glenmorangie The Original 10 Year Old (Scotland)
 ```
