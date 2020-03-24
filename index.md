@@ -15,4 +15,5 @@ The Singleton of Dufftown Malt Master's Selection 1106 (Scotland)
 Glenmorangie The Original 10 Year Old (Scotland)
 The Naked Grouse (Scotland)
 Aberlour A'bunadh Batch 63 61% (Scotland)
+Laphroaig 10 Year Old Single Malt (Scotland)
 ```
