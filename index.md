@@ -16,4 +16,5 @@ Glenmorangie The Original 10 Year Old (Scotland)
 The Naked Grouse (Scotland)
 Aberlour A'bunadh Batch 63 61% (Scotland)
 Laphroaig 10 Year Old Single Malt (Scotland)
+Glenfiddich 12 Year Old (Scotland)
 ```
