@@ -1,4 +1,4 @@
-# The Hectic Mix
+# The flask
 ```
 Chita Distillers Reserve (Japan)
 Bruichladdich Octomore 7.2 / 208 (Scotland)
@@ -18,4 +18,6 @@ The Naked Grouse (Scotland)
 Aberlour A'bunadh Batch 63 61% (Scotland)
 Laphroaig 10 Year Old Single Malt (Scotland)
 Glenfiddich 12 Year Old (Scotland)
+Bowmore Islay 12 Year Old Single Malt Whisky (Scotland)
+Bruichladdich The Classic Laddie Single Malt (Scotland)
 ```
